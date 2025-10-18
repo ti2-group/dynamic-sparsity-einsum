@@ -1,5 +1,9 @@
 # Experiments for Exploiting Dynamic Sparsity in Einsum
 
+Code accompanying our [NeurIPS 2025 paper](https://neurips.cc/virtual/2025/poster/116509).
+
+## Setup
+
 We recommend to use `uv` to install the required packages. To install `uv`, see their installation instructions [here](https://docs.astral.sh/uv/getting-started/installation/#installation-methods).
 
 Afterwards you can install all dependencies by running:
